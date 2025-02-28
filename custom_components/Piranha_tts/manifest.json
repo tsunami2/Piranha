@@ -7,4 +7,6 @@
   "dependencies": [],
   "codeowners": ["@snyper6pz_rapper"],
   "iot_class": "cloud_push"
+  "config_flow": true,
+
 }
