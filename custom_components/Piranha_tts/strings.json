@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Fish Audio Wyoming TTS Setup",
+        "description": "Enter your API key and voice model ID to enable text-to-speech.",
+        "data": {
+          "api_key": "Fish Audio API Key",
+          "voice_model_id": "Voice Model ID"
+        }
+      }
+    }
+  },
+  "title": "Fish Audio Wyoming TTS"
+}

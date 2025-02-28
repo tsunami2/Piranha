@@ -1,0 +1,26 @@
+{
+  "name": "Fish Audio Wyoming TTS",
+  "version": "1.0.0",
+  "slug": "Piranha_tts",
+  "description": "A Home Assistant TTS integration using Fish.Audio and the Wyoming protocol.",
+  "url": "https://github.com/tsunami2/piranha",
+  "startup": "application",
+  "boot": "auto",
+  "hassio_api": true,
+  "hassio_role": "admin",
+  "homeassistant": "2023.1.0",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "options": {},
+  "schema": {},
+  "webui": "http://[HOST]:[PORT]",
+  "ports": {
+    "10200/tcp": 10200
+  }
+}
+
+{
+  "name": "Fish Audio Wyoming Repository",
+  "url": "https://github.com/your-repo/fish-audio-wyoming",
+  "maintainer": "Ricardo Garcia",
+  "version": "1.0.0"
+}
