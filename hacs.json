@@ -1,0 +1,10 @@
+{
+  "name": "Fish Audio Wyoming TTS",
+  "description": "A Home Assistant TTS integration using Fish.Audio and the Wyoming protocol.",
+  "category": "integration",
+  "domain": "fish_audio_wyoming",
+  "repository": "https://github.com/tsunami2/Piranha",
+  "authors": ["Ricardo Garcia"],
+  "homeassistant": "2023.1.0",
+  "version": "1.0.0"
+}
